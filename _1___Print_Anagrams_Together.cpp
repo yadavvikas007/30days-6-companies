@@ -1,12 +1,9 @@
-// { Driver Code Starts
-// Initial Template for C++
+// Given an array of strings, return all groups of strings that are anagrams.
+
 #include <bits/stdc++.h>
 #include <unordered_map>
 using namespace std;
 vector<vector<string>> Anagrams(vector<string> &string_list);
-
-// } Driver Code Ends
-// User function Template for C++
 
 vector<vector<string>> Anagrams(vector<string> &list)
 {
