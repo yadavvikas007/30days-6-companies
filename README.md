@@ -15,6 +15,6 @@
 10. Find max 10 numbers in a list having 10M entries.
 11. Given an unsorted array Arr of size N of positive integers. One number 'A' from     set {1, 2, …N} is missing and one number 'B' occurs twice in array. Find these two numbers.
 12. Find total number of Squares in a N*N chessboard
-13.Decode the string
-14.Minimum Size Subarray Sum
-15.Array Pair Sum Divisibility Problem
+13. Decode the string
+14. Minimum Size Subarray Sum
+15. Array Pair Sum Divisibility Problem
