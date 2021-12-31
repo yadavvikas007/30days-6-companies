@@ -1,5 +1,10 @@
 // Given an array of strings, return all groups of strings that are anagrams.
 
+// My Profiles--------------------------------------------------------------------
+// GFG : https://auth.geeksforgeeks.org/user/vy9690703/profile
+// Leetcode : https://leetcode.com/xmenvikas07/
+// Codeforces : https://codeforces.com/profile/xmenvikas07
+// Codechef : https://www.codechef.com/users/vikas_009
 #include <bits/stdc++.h>
 #include <unordered_map>
 using namespace std;
